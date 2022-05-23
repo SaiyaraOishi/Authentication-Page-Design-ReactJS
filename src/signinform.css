@@ -1,0 +1,32 @@
+.style{
+    background-image: url("/public/pexels-chevanon-photography-302899.jpg");
+    /* background-color: #334472 ; */
+    text-align: center;
+    background-size: 100%;
+    height: 105vh;
+    margin-top: -20px;
+    font-family: 'Times New Roman', Times, serif;
+    /* background-repeat:no-repeat;  */
+    /* background-color: black; */
+}
+
+.form{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: beige;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.2);
+    width: fit-content;
+    height: fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* justify-content: center; */
+    border-radius: 10px;
+    opacity: 0.80;
+    margin: auto;
+    text-align: left;
+}
+.text{
+    color: whitesmoke;
+}
